@@ -1,0 +1,2 @@
+# motd
+Reglas de PeladosRP
